@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "mapbox-gl/dist/mapbox-gl.css";
+
+@theme inline {
+  --font-sans: var(--font-sarabun);
+}
+
+body {
+  background: #f9fafb;
+  color: #111827;
+}
